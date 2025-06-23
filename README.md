@@ -26,3 +26,5 @@ Data Analyst internship task 1 data cleaning using python
 - Practiced identifying and resolving data issues like formatting and duplicates
 - Understood importance of clean data before analysis or modeling
 - Gained confidence using Pandas for real-world preprocessing tasks
+- Note: Duplicate rows and missing values were intentionally introduced into the dataset to demonstrate proper data cleaning procedures.
+
